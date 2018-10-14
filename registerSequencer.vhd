@@ -9,4 +9,6 @@ entity Register1 is
 		Q : out std_logic_vector(3 downto 0));
 end Register1;
 
-architecture
+architecture behavior of Register is
+	
+end behavior;
